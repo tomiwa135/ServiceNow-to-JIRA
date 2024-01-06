@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1020730_servicen_servicenow_to_jira">x_1020730_servicen_servicenow_to_jira</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>JIRA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-06 20:27:14</sys_created_on>
+        <sys_id>6a65258247e73110d570fa8bd36d4367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JIRA</sys_name>
+        <sys_package display_value="ServiceNow to JIRA App" source="x_1020730_servicen">c064298e47a73110d570fa8bd36d430f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow to JIRA App">c064298e47a73110d570fa8bd36d430f</sys_scope>
+        <sys_update_name>sys_number_6a65258247e73110d570fa8bd36d4367</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-06 20:27:14</sys_updated_on>
+    </sys_number>
+</record_update>

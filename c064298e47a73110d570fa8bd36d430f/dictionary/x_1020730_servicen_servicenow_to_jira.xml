@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="afe4e14247e73110d570fa8bd36d43a6" extends="task" label="ServiceNow-to-JIRA" max_length="40" name="x_1020730_servicen_servicenow_to_jira" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Assigned date" mandatory="true" max_length="40" name="u_assigned_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="wooden edge studios ai" label="Project" mandatory="true" max_length="40" name="u_project" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Wooden Edge Studios AI" sequence="0" value="wooden edge studios ai"/>
+                <element inactive_on_update="false" label="Wooden Edge Studios AWS" sequence="1" value="wooden edge studios aws"/>
+                <element inactive_on_update="false" label="Wooden Edge Studios Azure" sequence="2" value="wooden edge studios azure"/>
+            </choice>
+        </element>
+    </element>
+</database>

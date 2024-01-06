@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_assigned_date" label="Assigned date" language="en" table="x_1020730_servicen_servicenow_to_jira">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_assigned_date</element>
+            <help/>
+            <hint/>
+            <label>Assigned date</label>
+            <language>en</language>
+            <name>x_1020730_servicen_servicenow_to_jira</name>
+            <plural>Assigned dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-06 21:25:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Assigned date</sys_name>
+            <sys_package display_value="ServiceNow to JIRA App" source="x_1020730_servicen">c064298e47a73110d570fa8bd36d430f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ServiceNow to JIRA App">c064298e47a73110d570fa8bd36d430f</sys_scope>
+            <sys_update_name>sys_documentation_x_1020730_servicen_servicenow_to_jira_u_assigned_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-06 21:25:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
